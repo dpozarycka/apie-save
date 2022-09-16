@@ -1,0 +1,42 @@
+* {
+    font-family: Quicksand;
+}
+
+html {
+    font-size: 20px;
+}
+
+.box-model {
+    border: 10px solid #14279B;
+    height: windowHeight;
+    background: url(fonas11.jpg);
+    background-size:cover;
+}
+
+
+img {
+    width: 200px;
+    height: auto;
+    object-fit: cover;
+  float: left;
+  margin-top: 50px;
+  margin-left: 30px;
+  margin-right: 10px; 
+}
+
+p {
+    font-size: 1em;
+}
+
+h1 {
+    margin-left: 40px;
+}
+
+ul {
+    text-align: justify;
+    margin-right: 20px;
+}
+
+
+
+
